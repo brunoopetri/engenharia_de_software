@@ -1,7 +1,10 @@
-# engenharia_de_software
-Disciplina de Linguagem de Programação
+ ![image](https://user-images.githubusercontent.com/98756562/186251383-f232b8c5-aa76-42c1-a363-b1393557f691.png)
 
-## "A reutilização do código é o segredo para criar um sistema sustentável".
+## Engenharia de Software - Disciplina de Linguagem de Programação
+
+
+
+### "A reutilização do código é o segredo para criar um sistema sustentável".
 
 Funções permitem que o programador possa reutilizar algumas linhas de código de forma fácil e eficaz. Esse é o primeiro passo para a criação de códigos reutilizáveis. A partir deste conceito, podemos passar a pensar em utilizar conjuntos de funções acopladas em um arquivo como Módulos, que também constituem a essência do código reutilizável.
 
