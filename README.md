@@ -1,12 +1,14 @@
  ![image](https://user-images.githubusercontent.com/98756562/186251383-f232b8c5-aa76-42c1-a363-b1393557f691.png)
 
-## Engenharia de Software - Disciplina de Linguagem de Programação
+## Disciplina de Linguagem de Programação
 
 
 
-### "A reutilização do código é o segredo para criar um sistema sustentável".
+### "O segredo para criar sistemas sustentáveis reside na reutilização do código.".
 
-Funções permitem que o programador possa reutilizar algumas linhas de código de forma fácil e eficaz. Esse é o primeiro passo para a criação de códigos reutilizáveis. A partir deste conceito, podemos passar a pensar em utilizar conjuntos de funções acopladas em um arquivo como Módulos, que também constituem a essência do código reutilizável.
+A reutilização do código é uma prática fundamental na engenharia de software, possibilitando a construção de sistemas mais eficientes e de fácil manutenção. Uma das formas mais básicas de alcançar essa reutilização é através das funções. As funções permitem que os programadores capturem e reutilizem blocos de código de forma eficaz e simples, representando um primeiro passo essencial na jornada para desenvolver códigos sustentáveis e de qualidade.
+
+Expandindo esse conceito, podemos pensar em organizar conjuntos de funções relacionadas em arquivos chamados Módulos. Os módulos encapsulam funcionalidades específicas, promovendo a reutilização em larga escala e facilitando a manutenção e escalabilidade dos projetos.
 
 ### Atividade:
 
@@ -18,4 +20,4 @@ c) Faça uma função que informe a quantidade de dígitos de um determinado nú
 
 ### Leituras recomendadas:
 
-* Reutilização do código – Funções e Módulos - cap. 4 - Use a Cabeça! Python
+* Para uma compreensão mais aprofundada sobre reutilização de código, funções e módulos em Python, recomenda-se a leitura do Capítulo 4 do livro "Use a Cabeça! Python". Este recurso oferece uma abordagem prática e acessível para entender os conceitos fundamentais da linguagem Python.
